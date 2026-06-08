@@ -18,3 +18,6 @@ npx
 npx stands for Node Package Execute.
 
 Used to run a package directly.
+
+
+# npm is used to install and manage packages in a project, while npx is used to execute packages directly without requiring a global installation. npm install adds packages to the project, whereas npx is commonly used for running CLI tools such as create-react-app or tailwindcss commands.
