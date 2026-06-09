@@ -77,3 +77,11 @@ Polyfills
 | Import All      | Multiple exports       | `import * as obj from "./file"`     |
 | Alias           | `export const a`       | `import { a as b } from "./file"`   |
 | Side Effect     | Any file               | `import "./file"`                   |
+
+
+
+# import React from "react";           // Default import
+
+# import { useState } from "react";    // Named import
+
+# import React, { useState } from "react"; // Both
